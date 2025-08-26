@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Vishwarajsinh and I'm a pursueing I.T, from Gujarat Technolgical Unvirsity</h2>
 
 ###
 
@@ -8,8 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -44,6 +42,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
